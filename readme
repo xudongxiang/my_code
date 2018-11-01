@@ -1,0 +1,2 @@
+xml2txt_v2.py 是用来将xml文件转换为txt文件，输出为一个txt(包含pic名字)，还有一个文件夹（包含无数个txt文件）
+extract_txt_from_bdd系列代码的使用步骤（新建train,val两个文件夹，同时在里面分别新建两个文件夹（train_label,val_label））运行代码 python3 extract_txt_from_bdd.py
